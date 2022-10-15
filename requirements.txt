@@ -1,0 +1,2 @@
+pymilvus
+face_recognition

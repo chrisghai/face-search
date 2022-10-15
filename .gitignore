@@ -1,0 +1,11 @@
+**/.DS_Store
+**/DS_Store
+state/
+images/
+test-images/
+volumes/
+
+dlib/
+
+.venv/
+.env/
