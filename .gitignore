@@ -9,3 +9,5 @@ dlib/
 
 .venv/
 .env/
+
+**/__pycache__
